@@ -14,7 +14,7 @@ export default class Services extends Component {
             {
                 icon:<FaHiking />,
                 title: "Endless Hiking",
-                info:'Experience the most adventerous and thrilling Hiking experience wwith us!'
+                info:'Experience the most adventerous and thrilling Hiking experience with us!'
             },
             {
                 icon:<FaShuttleVan />,
